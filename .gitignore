@@ -1,0 +1,10 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# STM32CubeIDE metadata/cache
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
